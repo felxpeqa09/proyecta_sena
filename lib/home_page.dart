@@ -41,6 +41,11 @@ class HomePage extends StatelessWidget {
                   style: TextStyle(fontSize: 25, color: Colors.black),
                 ),
               ),
+              Image.asset(
+                "assets/imagenes/jaguar-salvaje-agresivo-que-viene-conseguirle-61377213.webp",
+                width: 150,
+                height: 150,
+              ),
             ],
           ),
         ),
